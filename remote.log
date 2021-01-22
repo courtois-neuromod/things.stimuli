@@ -1,0 +1,1 @@
+06771c30-4fe7-44da-8355-c44cb2a065fb autoenable=true bucket=cneuromod.things.stimuli chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.things.stimuli port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1611332698.511278s
