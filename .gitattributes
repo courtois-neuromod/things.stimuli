@@ -1,6 +1,6 @@
 
 **/.git* annex.largefiles=nothing
-* annex.largefiles=(largerthan=100kb)
+*.jpg annex.largefiles=anything
 *.json annex.largefiles=nothing
 *.txt annex.largefiles=nothing
 *.tsv annex.largefiles=nothing
@@ -10,4 +10,3 @@
 *.csv annex.largefiles=nothing
 *_scans.tsv annex.largefiles=anything
 * annex.backend=MD5E
-**/.git* annex.largefiles=nothing
