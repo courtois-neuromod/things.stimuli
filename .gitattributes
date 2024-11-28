@@ -3,6 +3,7 @@
 *.jpg annex.largefiles=anything
 *.json annex.largefiles=nothing
 *.txt annex.largefiles=nothing
+*.md annex.largefiles=nothing
 *.tsv annex.largefiles=nothing
 *.nii.gz annex.largefiles=anything
 *.jpg annex.largefiles=anything
