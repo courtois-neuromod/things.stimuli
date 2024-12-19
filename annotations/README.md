@@ -1,9 +1,18 @@
 THINGS image annotations
 ========================
 
-Image annotations for the THINGS image dataset, which comprises the current stimulus set, can be retrieved from the [THINGS Initiative](https://things-initiative.org/) website [here](https://osf.io/jum2f/).
+Image annotation files for the full THINGS image dataset, which comprises the current stimulus set, were retrieved from the [THINGS object concept and object image database](https://osf.io/jum2f/), and saved directly under ``annotations/THINGS+``. Files include:
+* ``THINGS/things_concepts.tsv``
+* ``THINGSplus/Metadata/Concept-specific/arousal_meanRatings.tsv``
+* ``THINGSplus/Metadata/Concept-specific/category53_wideFormat.tsv``
+* ``THINGSplus/Metadata/Concept-specific/objectProperties_meanRatings.tsv``
+* ``THINGSplus/Metadata/Concept-specific/size_meanRatings.tsv``
+* ``THINGSplus/Metadata/Image-specific/imageLabeling_imageWise.tsv``
+* ``THINGSplus/Metadata/Image-specific/imageLabeling_objectWise.tsv``
 
-To characterize stimulus content, we created 13 boolean flags that reflect whether an image contains faces or body parts (animal or human), and whether it features a complex scene, an enriched background or a lone object devoid of context. A manual annotator rated all 4k+ images in the CNeuroMod-things stimulus set with the 13 flags, which are defined below. Each image was annotated twice for consistency. Results are compiled in ``task-thing_desc-manual_annotation.tsv`` and columns are described in ``task-things_desc-manual_annotation.json``.
+See the [THINGSplus preprint](https://osf.io/preprints/psyarxiv/exu9f) for more information about these annotations.
+
+To further characterize image content, we generated our own manual annotations: we created 13 boolean flags that reflect whether an image contains faces or body parts (animal or human), and whether it features a complex scene, an enriched background or a lone object devoid of context. A manual annotator rated all 4k+ images in the CNeuroMod-things stimulus set with the 13 flags, which are defined below. Each image was annotated twice for consistency. Results are compiled in ``task-thing_desc-manual_annotation.tsv`` and columns are described in ``task-things_desc-manual_annotation.json``.
 
 **face** \
 Contains any face, whole or partial (e.g., eyes or smile), central or in the periphery (incidental to the image’s main focus). Faces can be human or not, real or artificial (a doll’s face, a cartoon cat face, a face reflected in a soap bubble).
