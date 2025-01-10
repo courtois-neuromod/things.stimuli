@@ -1,7 +1,7 @@
 LICENSE
 
 ---IMAGE DATABASES---
-The THINGS images (images_fmri.zip) have a Attribution
+The THINGS images (images_fmri.zip) have an Attribution
 NonCommercial-ShareAlike CC BY-NC-SA license. The copyright of all images
 belongs to the owners of the image and are made available for research
 purposes only, according to fair use. Commercial use, reproduction or
