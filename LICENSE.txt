@@ -1,0 +1,17 @@
+LICENSE
+
+---IMAGE DATABASES---
+The THINGS images (images_fmri.zip) have a Attribution
+NonCommercial-ShareAlike CC BY-NC-SA license. The copyright of all images
+belongs to the owners of the image and are made available for research
+purposes only, according to fair use. Commercial use, reproduction or
+distribution of the images, or any modifications thereof, is not permitted
+without the explicit consent of the owners.
+
+If you are the owner of the work and your image has been published illegally
+by another person, please see the copyright_infrigement_notification.txt.
+
+---CREDIT---
+Please cite the following paper when using the THINGS images:
+
+Hebart M.N., Dickter A.H., Kidder A., Kwok W.Y., Corriveau A., Van Wicklin C., Baker, C.I. THINGS: A database of 1,854 object concepts and more than 26,000 naturalistic object images. PLoS ONE 14(10): e0223792. (2019) https://doi.org/10.1371/journal.pone.0223792
