@@ -18,6 +18,8 @@ Archive:  images_fmri.zip
 [images_fmri.zip] images_fmri/acorn/acorn_01b.jpg password:
 ```
 
+Note that the same password is used for the ``images_test_fmri.zip`` and ``images_catch_fmri.zip`` files; images saved under ``images_test_fmri.zip`` are covered by the same license as ``images_fmri.zip`` images.
+
 ----
 Please cite the following paper when using the THINGS images:
 
