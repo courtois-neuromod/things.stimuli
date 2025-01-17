@@ -20,7 +20,25 @@ Archive:  images_fmri.zip
 
 Note that the same password is used for the ``images_test_fmri.zip`` and ``images_catch_fmri.zip`` files; images saved under ``images_test_fmri.zip`` are covered by the same license as ``images_fmri.zip`` images.
 
-----
-Please cite the following paper when using the THINGS images:
+
+**Please cite the following paper when using the THINGS images:**
 
 Hebart M.N., Dickter A.H., Kidder A., Kwok W.Y., Corriveau A., Van Wicklin C., Baker, C.I. THINGS: A database of 1,854 object concepts and more than 26,000 naturalistic object images. PLoS ONE 14(10): e0223792. (2019) https://doi.org/10.1371/journal.pone.0223792
+
+
+### Image Annotations
+
+Annotations saved in annotations/task-things_desc-manual_annotation.tsv fall under a CC0 license. 
+
+Annotations saved under things.stimuli/annotations/THINGS+ were retrieved from the THINGS object concept and object image database (https://osf.io/jum2f/) and fall under an Attribution CC BY license. This licence lets you distribute, remix, modify, and buil upon a given work, even for commercial purposes, as long as credit is given to the original creators.
+
+The concreteness ratings used in the creation of the THINGS+ database were taken from “Brysbaert, M., Warriner, A.B., & Kuperman, V. (2014). Concreteness ratings for 40 thousand generally known English word lemmas. Behavior Research Methods, 46, 904-911.”
+
+COCA word frequency data published with the THINGS+ database are from the Corpus of Contemporary American English (COCA). Modified word frequency data was published by THINGS+ with permission from Mark Davies (https://www.wordfrequency.info).
+
+Please cite the following two papers when using the THINGS+ image annotations:
+
+Hebart M.N., Dickter A.H., Kidder A., Kwok W.Y., Corriveau A., Van Wicklin C., Baker, C.I. THINGS: A database of 1,854 object concepts and more than 26,000 naturalistic object images. PLoS ONE 14(10): e0223792. (2019) https://doi.org/10.1371/journal.pone.0223792
+
+Stoinski, L.M., Perkuhn, J. & Hebart, M.N. THINGSplus: New norms and metadata for the THINGS database of 1854 object concepts and 26,107 natural object images. Behav Res 56, 1583–1603 (2024). https://doi.org/10.3758/s13428-023-02110-8
+
