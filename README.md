@@ -36,7 +36,7 @@ The concreteness ratings used in the creation of the THINGS+ database were taken
 
 COCA word frequency data published with the THINGS+ database are from the Corpus of Contemporary American English (COCA). Modified word frequency data was published by THINGS+ with permission from Mark Davies (https://www.wordfrequency.info).
 
-Please cite the following two papers when using the THINGS+ image annotations:
+**Please cite the following two papers when using the THINGS+ image annotations:**
 
 Hebart M.N., Dickter A.H., Kidder A., Kwok W.Y., Corriveau A., Van Wicklin C., Baker, C.I. THINGS: A database of 1,854 object concepts and more than 26,000 naturalistic object images. PLoS ONE 14(10): e0223792. (2019) https://doi.org/10.1371/journal.pone.0223792
 
