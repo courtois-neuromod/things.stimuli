@@ -25,7 +25,7 @@ Note that the same password is used for the ``images_test_fmri.zip`` and ``image
 
 Hebart M.N., Dickter A.H., Kidder A., Kwok W.Y., Corriveau A., Van Wicklin C., Baker, C.I. THINGS: A database of 1,854 object concepts and more than 26,000 naturalistic object images. PLoS ONE 14(10): e0223792. (2019) https://doi.org/10.1371/journal.pone.0223792
 
-
+----
 ### Image Annotations
 
 Annotations saved in annotations/task-things_desc-manual_annotation.tsv fall under a CC0 license. 
