@@ -30,7 +30,7 @@ Hebart M.N., Dickter A.H., Kidder A., Kwok W.Y., Corriveau A., Van Wicklin C., B
 
 Annotations saved in annotations/task-things_desc-manual_annotation.tsv fall under a CC0 license. 
 
-Annotations saved under things.stimuli/annotations/THINGS+ were retrieved from the THINGS object concept and object image database (https://osf.io/jum2f/) and fall under an Attribution CC BY license. This licence lets you distribute, remix, modify, and buil upon a given work, even for commercial purposes, as long as credit is given to the original creators.
+Annotations saved under things.stimuli/annotations/THINGS+ were retrieved from the [THINGS object concept and object image database](https://osf.io/jum2f/) and fall under an Attribution CC BY license. This licence lets you distribute, remix, modify, and buil upon a given work, even for commercial purposes, as long as credit is given to the original creators.
 
 The concreteness ratings used in the creation of the THINGS+ database were taken from “Brysbaert, M., Warriner, A.B., & Kuperman, V. (2014). Concreteness ratings for 40 thousand generally known English word lemmas. Behavior Research Methods, 46, 904-911.”
 
