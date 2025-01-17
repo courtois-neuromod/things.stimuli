@@ -22,7 +22,7 @@ Hebart M.N., Dickter A.H., Kidder A., Kwok W.Y., Corriveau A., Van Wicklin C., B
 
 Stoinski, L.M., Perkuhn, J. & Hebart, M.N. THINGSplus: New norms and metadata for the THINGS database of 1854 object concepts and 26,107 natural object images. Behav Res 56, 1583–1603 (2024). https://doi.org/10.3758/s13428-023-02110-8
 
-
+----
 ### Manual annotations
 
 To further characterize image content, we also generated our own manual annotations (these fall under a CC0 license). We created 13 boolean flags that reflect whether an image contains faces or body parts (animal or human), and whether it features a complex scene, an enriched background or a lone object devoid of context. A manual annotator rated all 4k+ images in the CNeuroMod-things stimulus set with the 13 flags, which are defined below. Each image was annotated twice for consistency. Results are compiled in ``task-thing_desc-manual_annotation.tsv`` and columns are described in ``task-things_desc-manual_annotation.json``.
