@@ -30,13 +30,13 @@ Hebart M.N., Dickter A.H., Kidder A., Kwok W.Y., Corriveau A., Van Wicklin C., B
 
 Annotations saved in annotations/task-things_desc-manual_annotation.tsv fall under a CC0 license.
 
-Annotations saved under things.stimuli/annotations/THINGS+ were retrieved from the [THINGS object concept and object image database](https://osf.io/jum2f/) and fall under an Attribution CC BY license. This licence lets you distribute, remix, modify, and build upon a given work, even for commercial purposes, as long as credit is given to the original creators.
+Annotations saved under things.stimuli/annotations/THINGSplus were retrieved from the [THINGS object concept and object image database](https://osf.io/jum2f/) and fall under an Attribution CC BY license. This licence lets you distribute, remix, modify, and build upon a given work, even for commercial purposes, as long as credit is given to the original creators.
 
-The concreteness ratings used in the creation of the THINGS+ database were taken from “Brysbaert, M., Warriner, A.B., & Kuperman, V. (2014). Concreteness ratings for 40 thousand generally known English word lemmas. Behavior Research Methods, 46, 904-911.”
+The concreteness ratings used in the creation of the THINGSplus database were taken from “Brysbaert, M., Warriner, A.B., & Kuperman, V. (2014). Concreteness ratings for 40 thousand generally known English word lemmas. Behavior Research Methods, 46, 904-911.”
 
-COCA word frequency data published with the THINGS+ database are from the Corpus of Contemporary American English (COCA). Modified word frequency data was published by THINGS+ with permission from Mark Davies (https://www.wordfrequency.info).
+COCA word frequency data published with the THINGSplus database are from the Corpus of Contemporary American English (COCA). Modified word frequency data was published by THINGSplus with permission from Mark Davies (https://www.wordfrequency.info).
 
-**Please cite the following two papers when using the THINGS+ image annotations:**
+**Please cite the following two papers when using the THINGSplus image annotations:**
 
 Hebart M.N., Dickter A.H., Kidder A., Kwok W.Y., Corriveau A., Van Wicklin C., Baker, C.I. THINGS: A database of 1,854 object concepts and more than 26,000 naturalistic object images. PLoS ONE 14(10): e0223792. (2019) https://doi.org/10.1371/journal.pone.0223792
 
