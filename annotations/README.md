@@ -1,7 +1,9 @@
 THINGS image annotations
 ========================
 
-Image annotation files for the full THINGS image dataset, which comprises the current stimulus set, were retrieved from the [THINGS object concept and object image database](https://osf.io/jum2f/), and saved directly under ``annotations/THINGS+``. Files include:
+### THINGSplus annotations
+
+Image annotation files saved directly under ``annotations/THINGSplus`` were retrieved from the [THINGS object concept and object image database](https://osf.io/jum2f/). These annotations characterize the entire THINGS image dataset, which comprises the current stimulus subset.  Files include:
 * ``THINGS/things_concepts.tsv``
 * ``THINGSplus/Metadata/Concept-specific/arousal_meanRatings.tsv``
 * ``THINGSplus/Metadata/Concept-specific/category53_wideFormat.tsv``
@@ -12,7 +14,18 @@ Image annotation files for the full THINGS image dataset, which comprises the cu
 
 See the [THINGSplus preprint](https://osf.io/preprints/psyarxiv/exu9f) for more information about these annotations.
 
-To further characterize image content, we generated our own manual annotations: we created 13 boolean flags that reflect whether an image contains faces or body parts (animal or human), and whether it features a complex scene, an enriched background or a lone object devoid of context. A manual annotator rated all 4k+ images in the CNeuroMod-things stimulus set with the 13 flags, which are defined below. Each image was annotated twice for consistency. Results are compiled in ``task-thing_desc-manual_annotation.tsv`` and columns are described in ``task-things_desc-manual_annotation.json``.
+The THINGSplus annotations fall under an Attribution CC BY license. This licence lets you distribute, remix, modify, and buil upon a given work, even for commercial purposes, as long as credit is given to the original creators. The concreteness ratings used in the creation of the THINGSplus database were taken from “Brysbaert, M., Warriner, A.B., & Kuperman, V. (2014). Concreteness ratings for 40 thousand generally known English word lemmas. Behavior Research Methods, 46, 904-911.” COCA word frequency data published with the THINGSplus database are from the Corpus of Contemporary American English (COCA). Modified word frequency data was published by THINGSplus with permission from Mark Davies (https://www.wordfrequency.info).
+
+**Please cite the following two papers when using the THINGSplus image annotations:**
+
+Hebart M.N., Dickter A.H., Kidder A., Kwok W.Y., Corriveau A., Van Wicklin C., Baker, C.I. THINGS: A database of 1,854 object concepts and more than 26,000 naturalistic object images. PLoS ONE 14(10): e0223792. (2019) https://doi.org/10.1371/journal.pone.0223792
+
+Stoinski, L.M., Perkuhn, J. & Hebart, M.N. THINGSplus: New norms and metadata for the THINGS database of 1854 object concepts and 26,107 natural object images. Behav Res 56, 1583–1603 (2024). https://doi.org/10.3758/s13428-023-02110-8
+
+----
+### Manual annotations
+
+To further characterize image content, we also generated our own manual annotations (these fall under a CC0 license). We created 13 boolean flags that reflect whether an image contains faces or body parts (animal or human), and whether it features a complex scene, an enriched background or a lone object devoid of context. A manual annotator rated all 4k+ images in the CNeuroMod-things stimulus set with the 13 flags, which are defined below. Each image was annotated twice for consistency. Results are compiled in ``task-thing_desc-manual_annotation.tsv`` and columns are described in ``task-things_desc-manual_annotation.json``.
 
 **face** \
 Contains any face, whole or partial (e.g., eyes or smile), central or in the periphery (incidental to the image’s main focus). Faces can be human or not, real or artificial (a doll’s face, a cartoon cat face, a face reflected in a soap bubble).
